@@ -10,6 +10,7 @@ function NavBar() {
                         <Nav.Link href="#home">Inicio</Nav.Link>
                         <Nav.Link href="#link">Productos</Nav.Link>
                         <Nav.Link href="#link">Nosotros</Nav.Link>
+                        <Nav.Link href="#link">Locales</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>
